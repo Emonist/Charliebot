@@ -24,4 +24,4 @@ The data we store, including your Discord username, Discord ID, and discriminato
 
 ## Request for Deletion of Your Data
 
-If you wish to have your data deleted, please contact us through the support server or DM [**emonist**](https://discord.com/users/1094102183399669821) on Discord. We will proceed with the complete deletion of your data as per your request.
+If you wish to have your data deleted, please contact us through the support server or DM [**Richard**](https://discord.com/users/1094102183399669821) on Discord. We will proceed with the complete deletion of your data as per your request.
